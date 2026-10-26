@@ -3,7 +3,7 @@ from pyscript import document
 
 #base variables for the members
 BatchA = {"Jimmy Blanka","Cammy White"}
-BatchB = {"Ken Masters", "Chun Li" "Charlie Nash"}
+BatchB = {"Ken Masters", "Chun Li", "Charlie Nash"}
 BatchC = {"Mason Bison", "William Guile"}
 BatchD = {"Victor Sagat", "Charlie Nash"}
 
